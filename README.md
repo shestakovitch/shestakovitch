@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, my name is Mikhail 👋
+- 🌱 I’m currently learning Python
+
 
 <!--
 **shestakovitch/shestakovitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
