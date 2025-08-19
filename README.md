@@ -3,6 +3,7 @@
 I'm a Python enthusiast with a passion for learning and exploring the endless possibilities of coding. Over the past couple of years, I've been diving deep into Python, and recently, I discovered my love for web scraping.
 
 I'm always looking for opportunities to collaborate, learn from others, and contribute to exciting projects.
+[![trophy](https://github-profile-trophy.vercel.app/?username=shestakovitch)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
